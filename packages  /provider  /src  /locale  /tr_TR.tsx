@@ -26,13 +26,13 @@ export default {
     total: {  
       range: '',  
       total: 'Toplam',  
-      item: 'Öpe',
+      item: 'Öğe',
     },
   },
   tableToolBar: {  
     leftPin: 'Sola Tuttur',  
-    rightPin Pin to: 'Sağa Tuttur',  
-    noPin pinned: 'Tutturulmadı',  
+    rightPin: 'Sağa Tuttur',  
+    noPin: 'Tutturulmadı',  
     leftFixedTitle: 'Sola Sabitle',
     rightFixedTitle: 'Sağa Sabitle',
     noFixedTitle: 'Sabitlenmedi',
